@@ -1,4 +1,4 @@
-# ZZ_Proyecto_ZombyVsHumanity
+# Proyecto_ZombyVsHumanity
 
 ## University Project
 
